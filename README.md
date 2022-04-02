@@ -1,1 +1,4 @@
 # Hand_washing-analysis
+Handwashing Analysis project
+This repository contains my python script of my project featuring the analysis of a dataset recorded by a Hungarian physician in the mid 1800s. The steps that were undertaken while working on this project includes data preprocessing in python, data querying using Mysql and finally saving in a csv format for data viz in tableau. My visualizations for this data set can be found here: ([public.tableau.com/app/profile/ijeoma.ike/viz/Proportionofdeathbyyearandmonthbeforehandwashing/Sheet1]), ([https://public.tableau.com/app/profile/ijeoma.ike/viz/Proportionofdeathbyyearandmonthafterhandwashing/Sheet2]), ([https://public.tableau.com/app/profile/ijeoma.ike/viz/Averageyearlydeathbeforehandwashingwasintroduced/Sheet3]) and finally ([https://public.tableau.com/app/profile/ijeoma.ike/viz/Averageyearlydeathafterhandwashingwasintroduced/Sheet4]).
+ main
